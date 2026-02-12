@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-02-12T07:00:31.646Z",
+  "updated_at": "2026-02-12T08:00:32.151Z",
   "stats": {
     "hour": {
-      "requests": 435,
-      "bytes": 1279653,
+      "requests": 2,
+      "bytes": 924,
       "threats": 0
     },
     "day": {
-      "requests": 3606,
-      "bytes": 12972789,
+      "requests": 3453,
+      "bytes": 12010311,
       "threats": 99
     },
     "month": {
-      "requests": 3434883,
-      "bytes": 11277954140,
+      "requests": 3434887,
+      "bytes": 11277961127,
       "threats": 339280
     }
   }
