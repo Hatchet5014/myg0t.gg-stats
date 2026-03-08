@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-08T12:00:12.095Z",
+  "updated_at": "2026-03-08T12:00:21.178Z",
   "stats": {
     "hour": {
       "requests": 2,
@@ -12,8 +12,8 @@
       "threats": 0
     },
     "month": {
-      "requests": 53822,
-      "bytes": 189663315,
+      "requests": 53817,
+      "bytes": 189660748,
       "threats": 235
     }
   }
