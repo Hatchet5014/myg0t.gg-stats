@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-07T18:00:06.629Z",
+  "updated_at": "2026-06-07T19:00:05.738Z",
   "stats": {
     "hour": {
-      "requests": 38,
-      "bytes": 443985,
+      "requests": 0,
+      "bytes": 0,
       "threats": 0
     },
     "day": {
